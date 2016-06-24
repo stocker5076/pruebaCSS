@@ -1,0 +1,17 @@
+.container{
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.centrado{
+	text-align: center;
+}
+
+.encabezado{
+	background-image: url('../img/encabezado.png');
+}
+
+.paddingMedio{
+	padding-top: 10%;
+}
+
